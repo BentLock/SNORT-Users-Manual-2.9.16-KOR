@@ -8,7 +8,18 @@
 ---
 
 ## Contents
-[3. Writing Snort Rules](./3.Writing_Snort_Rules/README.md)
+- [3. Writing Snort Rules](./3.Writing_Snort_Rules/README.md)
+	- [3.1 The Basics](./3.Writing_Snort_Rules/3.1The_Basics.md)
+	- [3.2 Rules Headers](./3.Writing_Snort_Rules/3.2Rules_Headers.md)
+		- [3.2.1 Action](./3.Writing_Snort_Rules/3.2Rules_Headers.md#321-action)
+		- [3.2.2 Protocols](./3.Writing_Snort_Rules/3.2Rules_Headers.md#322-protocols)
+		- [3.2.3 IP Addresses](./3.Writing_Snort_Rules/3.2Rules_Headers.md#323-ip-addresses)
+		- [3.2.4 Port Numbers](./3.Writing_Snort_Rules/3.2Rules_Headers.md#324-port-numbers)
+		- [3.2.5 The Direction Operator](./3.Writing_Snort_Rules/3.2Rules_Headers.md#325-the-direction-operator)
+		- [3.2.6 Activate/Dynamic Rules](./3.Writing_Snort_Rules/3.2Rules_Headers.md#326-activatedynamic-rules)
+	- [3.3 Rule Options](./3.Writing_Snort_Rules/3.3Rule_Options.md)
+	- [3.4 General Rule Options](./3.Writing_Snort_Rules/3.4General_Rule_Options.md)
+
 
 ---
 
