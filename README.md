@@ -4,7 +4,7 @@
 [![SNORT Version](https://img.shields.io/badge/SNORT-2.9.16-red.svg)](http://manual-snort-org.s3-website-us-east-1.amazonaws.com/)
 [![Author](https://img.shields.io/badge/Author-BentLock-orange.svg)](https://github.com/BentLock)
 
-> **SNORT 2.9.16 공식 매뉴얼 기반 한국어 규칙 가이드입니다.**
+> **SNORT 2.9.16 공식 매뉴얼 기반 한국어 Rule 가이드입니다.**
 >
 > *\* 작성자는 전문 번역가가 아닙니다. 작성자의 주관적 해석이 포함되어 있으나, 원문의 의도를 가급적 훼손하지 않도록 노력하고 있습니다.*
 ---
