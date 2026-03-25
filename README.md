@@ -21,6 +21,15 @@
 		- [3.2.6 Activate/Dynamic Rules](./3.-Writing_Snort_Rules/3.2-Rules_Headers.md#326-activatedynamic-rules)
 	- [3.3 Rule Options](./3.-Writing_Snort_Rules/3.3-Rule_Options.md)
 	- [3.4 General Rule Options](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md)
+		- [3.4.1 msg](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#341-msg)
+		- [3.4.2 reference](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#342-reference)
+		- [3.4.3 gid](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#343-gid)
+		- [3.4.4 sid](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#344-sid)
+		- [3.4.5 rev](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#345-rev)
+		- [3.4.6 classtype](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#346-classtype)
+		- [3.4.7 Priority](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#347-priority)
+		- [3.4.8 metadata](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#348-metadata)
+		- [3.4.9 General Rule Quick Reference](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#349-general-rule-quick-reference)
 
 
 ---
