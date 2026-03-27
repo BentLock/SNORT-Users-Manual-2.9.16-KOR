@@ -6,7 +6,7 @@
 
 > **SNORT 2.9.16 공식 매뉴얼 기반 한국어 Rule 가이드입니다.**
 >
-> *\* 작성자는 전문 번역가가 아닙니다. 작성자의 주관적 해석이 포함되어 있으나, 원문의 의도를 가급적 훼손하지 않도록 노력하고 있습니다.*
+> *\* 작성자는 전문 번역가가 아닙니다. 작성자의 주관적 해석이 포함되어 있을 수 있으나나, 원문의 의도를 가급적 훼손하지 않도록 노력하고 있습니다.*
 ---
 
 ## Contents
@@ -30,6 +30,7 @@
 		- [3.4.7 Priority](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#347-priority)
 		- [3.4.8 metadata](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#348-metadata)
 		- [3.4.9 General Rule Quick Reference](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md#349-general-rule-quick-reference)
+	- [3.5 Payload Detection Rule Options](./3.-Writing_Snort_Rules/3.5-Payload-Detection-Rule-Options.md)
 
 
 ---
