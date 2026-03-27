@@ -18,7 +18,7 @@
 		- [3.2.5 The Direction Operator](./3.-Writing_Snort_Rules/3.2-Rules_Headers.md#325-the-direction-operator)
 		- [3.2.6 Activate/Dynamic Rules](./3.-Writing_Snort_Rules/3.2-Rules_Headers.md#326-activatedynamic-rules)
 	- [3.3 Rule Options](./3.-Writing_Snort_Rules/3.3-Rule_Options.md)
-	- [3.4 General Rule Options](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md)
+	- [3.4 General Rule Options](./3.-Writing_Snort_Rules/3.4-General_Rule_Options.md)	
 	- [3.5 Payload Detection Rule Options](./3.-Writing_Snort_Rules/3.5-Payload-Detection-Rule-Options.md)
 
 ---
