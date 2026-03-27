@@ -11,6 +11,18 @@ This repository contains a Korean summary, translation, and practical analysis b
 2. LICENSE FOR BENTLOCK'S CONTRIBUTIONS
 - The Korean summary text, restructured content, and additional security insights provided by BentLock in this repository are licensed under the Apache License, Version 2.0.
 
+3. THIRD-PARTY LICENSES & COPYRIGHTS
+
+A. ET Open Ruleset (by Emerging Threats)
+- The original rules included in 'rules/et-open/' are subject to the following licenses depending on their SIDs:
+    * SIDs 1-3464, 100000000-100000908: GNU General Public License v2 (GPLv2)
+    * SIDs 2000000-2799999: BSD 3-Clause License (Copyright 2003-2026, Emerging Threats)
+    * SIDs 2800000-2900000: ETPRO License (Check ETPRO-License.txt for terms)
+- BentLock does not claim any ownership over these original rules.
+
+B. SNORT Users Manual (by Cisco)
+- All original rights for SNORT Manual content belong to Cisco.
+- This repository provides an educational summary under the terms of the Apache License 2.0 for the translated/restructured text only.
 --------------------------------------------------------------------------------
 
                                  Apache License
